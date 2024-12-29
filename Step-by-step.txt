@@ -1,3 +1,10 @@
+ -----------------Model Building-----------------
+1. codes on google colab
+2. download model to your device as ZIP | Also label_encoder.pkl
+3. 'Clinical Diagnosis prediction' > 'patient_Model'
+
+
+     -----------------FastAPI and UI design-----------------
 1. Create a directory , open this on VS studio code .  |example : Clinical Diagnosis prediction| 
 2. on VS code, create an virtual environment
        steps: (some commands on terminal)
