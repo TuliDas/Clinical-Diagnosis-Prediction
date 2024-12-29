@@ -1,0 +1,14 @@
+1. Create a directory , open this on VS studio code .  |example : Clinical Diagnosis prediction| 
+2. on VS code, create an virtual environment
+       steps: (some commands on terminal)
+       a) python -m venv venv
+       b) .\venv\Scripts\activate  [activate venv]
+       c) pip install packages_names
+       d) CTL + SHIFT + P  & select python interpreter (.venv)
+Then start coding
+
+3. 'Clinical Diagnosis prediction' > 'templates' > 'index.html'
+4.  'venv' > 'main.py' or application code file
+5.  'Clinical Diagnosis prediction' > 'label_encoder.pkl'
+6. Run the FastAPI app with command "uvicorn main:app --reload" command
+7. Don't forget to save[CTL+S] each time after any changes in code
